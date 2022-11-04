@@ -16,7 +16,7 @@
 body {
   background-color: let(--body);
   background-image: url(img/pokemon_b.jpeg);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   max-height: 1080px;
 }
 #log {
