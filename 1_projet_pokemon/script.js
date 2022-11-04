@@ -122,24 +122,29 @@ class answer extends Question {
   }
 }
 
+
+//Késsé ta essayer de faire icite???? pcq ça marche pas et idk what it iz - MIRVEL
 myQuestion1 = new answer(
   "1. Quel pokemon choissiriez vous pour commencer votre aventure?",
   "<br> a.pikachu <br> b.squirtle <br> c.bulbasaur <br> c.chamander"
 );
 document.getElementById("question").innerHTML = myQuestion1.show();
 
-//question 1:  pokemon de debut
-//question 2:  élément du dresseur
-//question 3:  région du dresseur
-//question 4:  meilleur élément
-//question 5:  Quel est ton Pokémon de type Feu préféré ?
+//YO btw euh s'il faut une page par question et que c'est 12 question obligatoire, on va se faire niquer avec le temps - MIRVEL
+
+//question 1:  pokemon pour débuter l'aventure (DONE)
+//question 2:  élément spécialité du dresseur  (FAUT LE LINK UP)
+//question 3:  région où tu débute ton aventure
+//question 4:  Ton moyen de transport (Bike, Trotinette, skate, rollerskate, monture de pokemon, etc...)
+//question 5:  Quel est ton Pokémon préféré ?
 //question 6:  quel est ton légendaire préféré?
 //question 7:  lequel de ces pokemon est le plus fort?
-//question 8:  quel pokemon choisirait tu?
+//question 8:  quel pokemon choisirait tu pour combattre un Champion?
 //question 9:  quel est selon toi l'élément de ce pokemon?
-//question 10:  quel est selon toi l'élément de ce pokemon?
-//question 11: quel jeu choisirait tu?
-//question 12: quel jeu choisirait tu?
+//question 10: quel est selon toi le nom de ce pokemon?
+//question 11: quel est ton jeu préféré dans la série?
+//question 12: Donnerais-tu l'argent que tu gagnes des combats à ta mère?
+//question 13: Il est où ton père?
 
 //2) Ajouter une sous-classe qui hérite d’une des classes créées. sky
 
